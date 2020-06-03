@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GroupChatApp</string>
+    <string name="navigation_view_header_title">Групповой чат</string>
+    <string name="chats_title">Чаты</string>
+    <string name="log_out_title">Выйти из аккаунта</string>
+    <string name="no_chats_all">Нет ни одного чата</string>
+    <string name="no_chats_add">Добавьте чат</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_message_text">Написать сообщение</string>
+    <string name="join_chat_text">Вступить в чат</string>
+    <string name="login_text">Вход</string>
+    <string name="password_hint_text">Пароль</string>
+    <string name="login_hint_text">Логин</string>
+    <string name="remember_pass_checkbox_text">Запомнить пароль</string>
+    <string name="login_button_text">Войти</string>
+    <string name="to_sign_up_page_text">Зарегистрироваться</string>
+    <string name="email_hint_text">Email</string>
+    <string name="sign_up_button_text">Зарегистрироваться</string>
+    <string name="chats_list_title">Список чатов</string>
+</resources>

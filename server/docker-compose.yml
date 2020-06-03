@@ -1,0 +1,13 @@
+app-web:
+  build: ./web
+  ports:
+    - "80:8080"
+  links:
+    - app-db
+
+app-db:
+  build: ./db
+  expose:
+    - "3306"
+  volumes:
+    - mysqldata:/var/lib/mysql

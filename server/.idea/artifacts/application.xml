@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="application">
+    <output-path>$PROJECT_DIR$/web</output-path>
+    <root id="archive" name="application.war">
+      <element id="artifact" artifact-name="group.chat.server:war exploded" />
+    </root>
+  </artifact>
+</component>
